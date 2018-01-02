@@ -18,7 +18,8 @@ h6 {
 header.masthead {
   position: relative;
   background-color: #343a40;
-  background: url("../img/bg-masthead.jpg") no-repeat center center;
+  background: url("../img/bg-brighton.jpg") no-repeat center center;
+  opacity: 0.6;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
